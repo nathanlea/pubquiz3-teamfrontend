@@ -28,7 +28,6 @@
             <quizr-editable-textfield
               v-model="newName"
               :label="$t('TEAMNAME')"
-              :description="$t('KEEP_IT_CLEAN')"
               :feedback="$t('TEAMNAME_LENGTH')"
               required
               :minlength="5"

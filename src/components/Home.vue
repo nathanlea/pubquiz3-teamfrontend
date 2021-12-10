@@ -15,7 +15,6 @@
             <b-col md="6" lg="4">
               <b-form-group
                 :label="$t('TEAMNAME')"
-                :description="$t('KEEP_IT_CLEAN')"
                 label-for="teamNameInput"
                 :invalid-feedback="$t('TEAMNAME_LENGTH')"
               >

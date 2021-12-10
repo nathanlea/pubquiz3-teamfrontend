@@ -39,7 +39,6 @@
   "InvalidEntityId": "Invalid id.",
   "InvalidGameStateTransition": "Invalid game status transition.",
   "InvalidUserNameOrPassword": "Invalid username or password.",
-  "KEEP_IT_CLEAN": "Keep it clean!",
   "KICKED_OUT": "You've been kicked out by the quizmaster. Click OK to go to the registration page.",
   "KICK_OUT": "Kick this team out of the game!",
   "LEAVE_GAME": "Leave game",
